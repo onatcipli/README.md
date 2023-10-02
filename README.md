@@ -1,4 +1,4 @@
-## Hello [Onat Çipli](https://onatcipli.github.io), Welcome to My GitHub 👋
+## Hello [Onat Çipli](https://onatcipli.dev), Welcome to My GitHub 👋
 
 <a href="https://tr.linkedin.com/in/onat-%C3%A7ipli">
   <img align="left" alt="Onat's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
